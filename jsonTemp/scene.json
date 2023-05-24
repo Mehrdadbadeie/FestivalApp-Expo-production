@@ -1,0 +1,74 @@
+{
+    "SceneInfo": [
+        {
+            "name": "Scener",
+            "info": [
+                "Här ger vi dig en överblick över alla scener som finns på festivalen"
+            ]
+        }
+    ],
+    "Scenes": [
+        {
+            "name": "Torget",
+            "image": "https://media.fosiedal.se/2011/03/bild-kommer-snart.png",
+            "performances": [
+                {
+                    "artist": "Ström",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "The Dahmers",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "The Hillcats",
+                    "time": "Kommer snart"
+                }
+            ]
+        },
+        {
+            "name": "Stadsparken",
+            "image": "https://media.fosiedal.se/2011/03/bild-kommer-snart.png",
+            "performances": [
+                {
+                    "artist": "Kommer snart",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "Kommer snart",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "Kommer snart",
+                    "time": "Kommer snart"
+                }
+            ]
+        },
+        {
+            "name": "Stora Scenen",
+            "image": "https://media.fosiedal.se/2011/03/bild-kommer-snart.png",
+            "performances": [
+                {
+                    "artist": "Daniel Adams-Ray",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "Bongo Riot GBG",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "Peg Parnevik",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "Henric Edström",
+                    "time": "Kommer snart"
+                },
+                {
+                    "artist": "Rasmus Blomberg",
+                    "time": "Kommer snart"
+                }
+            ]
+        }
+    ]
+}
