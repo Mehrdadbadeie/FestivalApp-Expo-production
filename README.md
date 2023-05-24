@@ -1,4 +1,4 @@
-# FestivalApp-Expo
+# FestivalApp-Expo (Production)
 This project is a festival app built using React Native and Expo CLI framework.
 
 ## About the project 
