@@ -15,14 +15,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.herrljungait.festivalappprod",
+      "buildNumber": "2.0.0" 
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.herrljungait.festivalappprod"
+      "package": "com.herrljungait.festivalappprod",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
