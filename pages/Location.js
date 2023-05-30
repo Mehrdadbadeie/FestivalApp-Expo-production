@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, ScrollView, TouchableOpacity} from 'react-native'
+import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Linking } from 'react-native'
 import React, { useState } from 'react';
 import MapView, { Polygon } from 'react-native-maps';
 import CustomHeader from '../component/CustomHeader';
