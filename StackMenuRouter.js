@@ -1,6 +1,7 @@
 import React from 'react';
 
-import { createStackNavigator } from '@react-navigation/stack';
+//import { createStackNavigator } from '@react-navigation/stack';
+import { createNativeStackNavigator } from 'react-native-screens/native-stack';
 import { NavigationContainer } from '@react-navigation/native';
 import { View, Text, TouchableOpacity, StyleSheet, Linking } from 'react-native';
 import AppLoading from 'expo-app-loading';
@@ -16,7 +17,8 @@ import SvgComponent from "./assets/svgComp/LogoSvg.js";
 //Component responsible for the menu function and the appearance.
 
 
-const Stack = createStackNavigator();
+//const Stack = createStackNavigator();
+const Stack = createNativeStackNavigator();
 
 const HomeScreen = ({ navigation }) => {
   let [fontsLoaded] = useFonts({

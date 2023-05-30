@@ -2,7 +2,7 @@
   "expo": {
     "name": "festivalapp-prod",
     "slug": "festivalapp-prod",
-    "version": "5.0.0",
+    "version": "6.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -17,7 +17,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.herrljungait.festivalappprod",
-      "buildNumber": "5.0.0" 
+      "buildNumber": "6.0.0" 
     },
     "android": {
       "adaptiveIcon": {
@@ -25,7 +25,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.herrljungait.festivalappprod",
-      "versionCode": 5
+      "versionCode": 6
     },
     "web": {
       "favicon": "./assets/favicon.png"
