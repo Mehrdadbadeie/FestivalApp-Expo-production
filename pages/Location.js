@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Linking } from 'react-native'
 import React, { useState } from 'react';
-import MapView, { Polygon } from 'react-native-maps';
+//import MapView, { Polygon } from 'react-native-maps';
 import CustomHeader from '../component/CustomHeader';
 import data from '../jsonTemp/location.json';
 import { FontAwesome } from '@expo/vector-icons';
@@ -135,10 +135,11 @@ export default function Location() {
                 <View style={styles.locationSquare}>
                     <Text style={styles.header}>Områden</Text>
                     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-                        <Text style={{ textAlign: 'center' }}>Här hittar du en karta över alla scener som finns på festivalen, samt information om respektive scen</Text>
+                        {/*<Text style={{ textAlign: 'center' }}>Här hittar du en karta över alla scener som finns på festivalen, samt information om respektive scen</Text>*/}
+                        <Text style={{ textAlign: 'center' }}>Här hittar du information om respektive scen</Text>
                     </View>
                 </View>
-
+                {/*
                 <View style={styles.mapSquare}>
                     <MapView style={styles.map} initialRegion={{
                         latitude: coordinate.latitude,
@@ -172,7 +173,7 @@ export default function Location() {
                         />
                     </MapView>
                 </View>
-
+                */}
                 <View style={styles.locationSquare}>
                     {data.LocationInfo.map((location, index) => (
                         <View style={styles.square} key={index}>
