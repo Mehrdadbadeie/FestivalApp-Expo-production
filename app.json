@@ -22,7 +22,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#00000"
+        "backgroundColor": "#"
       },
       "package": "com.herrljungait.festivalappprod",
       "versionCode": 12
