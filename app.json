@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Festivalapp",
-    "slug": "festivalApp",
+    "name": "festivalapp-prod",
+    "slug": "festivalapp-prod",
     "version": "12.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#"
+        "backgroundColor": "#ffffff"
       },
       "package": "com.herrljungait.festivalappprod",
       "versionCode": 12
