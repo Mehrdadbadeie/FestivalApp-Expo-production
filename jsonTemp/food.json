@@ -74,6 +74,90 @@
             ]
         },
         {
+            "name": "Nennas food truck",
+            "vegan": "true",
+            "meat": "true",
+            "fish": "true",
+
+            "menu": [
+                {
+                    "food": "Ekologiska surdegslangos med olika toppings av hög kvalitét. (K, V, troligt F)"
+                }
+            ]
+        },
+        {
+            "name": "Vi släcker din hunger",
+            "meat": "true",
+            "vegan": "true",
+            "fish": "false",
+
+            "menu": [
+                {
+                    "food": "Loadedfries. Krispiga pommes toppade med massa gott. (V, troligt M)"
+                }
+            ]
+        },
+        {
+            "name": "Herrljunga Drycker",
+            "meat": "false",
+            "vegan": "false",
+            "fish": "false",
+
+            "menu": [
+                {
+                    "food": "Endast alkoholfri dryck"
+                }
+            ]
+        },
+        {
+            "name": "Handelsbolaget Fikasystrarna",
+            "meat": "false",
+            "vegan": "true",
+            "fish": "false",
+
+            "menu": [
+                {
+                    "food": "Kaffe, kakor, bullar, lemonad. (troligen V)"
+                }
+            ]
+        },
+        {
+            "name": "Våffleriet",
+            "meat": "false",
+            "vegan": "false",
+            "fish": "false",
+
+            "menu": [
+                {
+                    "food": "Belgiska mat och dessertvåfflor. Kaffe och kolsyrat vatten"
+                }
+            ]
+        },
+        {
+            "name": "Lillysrollingkitchen",
+            "meat": "true",
+            "vegan": "false",
+            "fish": "flase",
+
+            "menu": [
+                {
+                    "food": "Tacos Pulled pork burgare mexican style Chicken burgare"
+                }
+            ]
+        },
+        {
+            "namn": "Bastino AB",
+            "meat": "true",
+            "vegan": "true",
+            "fish": "true",
+
+            "menu": [
+                {
+                    "food": "Langos"
+                }
+            ]
+        },
+        {
             "name": "Adisagrillen AB",
             "vegan": "true",
             "meat": "true",
