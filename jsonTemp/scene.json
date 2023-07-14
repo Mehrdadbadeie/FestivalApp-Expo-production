@@ -13,16 +13,32 @@
             "image": "https://media.fosiedal.se/2011/03/bild-kommer-snart.png",
             "performances": [
                 {
+                    "artist": "Inga-Bell",
+                    "time": "11:00-11:30"
+                },
+                {
+                    "artist": "DiscoSound",
+                    "time": "11:45-12:30"
+                },
+                {
+                    "artist": "ThornBerg",
+                    "time": "12:45-13:30"
+                },
+                {
+                    "artist": "Disa",
+                    "time": "13:45-14:30"
+                },
+                {
+                    "artist": "TheHillcats",
+                    "time": "14:45-15:30"
+                },
+                {
+                    "artist": "ThornBerg",
+                    "time": "17:00-17:45"
+                },
+                {
                     "artist": "Ström",
-                    "time": "Kommer snart"
-                },
-                {
-                    "artist": "The Dahmers",
-                    "time": "Kommer snart"
-                },
-                {
-                    "artist": "The Hillcats",
-                    "time": "Kommer snart"
+                    "time": "18:15-19:00"
                 }
             ]
         },
@@ -31,16 +47,8 @@
             "image": "https://media.fosiedal.se/2011/03/bild-kommer-snart.png",
             "performances": [
                 {
-                    "artist": "Kommer snart",
-                    "time": "Kommer snart"
-                },
-                {
-                    "artist": "Kommer snart",
-                    "time": "Kommer snart"
-                },
-                {
-                    "artist": "Kommer snart",
-                    "time": "Kommer snart"
+                    "artist": "Barn aktiviteter",
+                    "time": "Hela Dagen"
                 }
             ]
         },
@@ -49,24 +57,24 @@
             "image": "https://media.fosiedal.se/2011/03/bild-kommer-snart.png",
             "performances": [
                 {
-                    "artist": "Daniel Adams-Ray",
-                    "time": "Kommer snart"
-                },
-                {
-                    "artist": "Bongo Riot GBG",
-                    "time": "Kommer snart"
-                },
-                {
-                    "artist": "Peg Parnevik",
-                    "time": "Kommer snart"
+                    "artist": "Rasmus Blomberg",
+                    "time": "17:00-17:45"
                 },
                 {
                     "artist": "Henric Edström",
-                    "time": "Kommer snart"
+                    "time": "18:15-19:00"
                 },
                 {
-                    "artist": "Rasmus Blomberg",
-                    "time": "Kommer snart"
+                    "artist": "Peg Parnevik",
+                    "time": "19:30-20:15"
+                },
+                {
+                    "artist": "Bongo Riot GBG",
+                    "time": "20:30-21:15"
+                },
+                {
+                    "artist": "Daniel A-R",
+                    "time": "21:45-22:45"
                 }
             ]
         }
