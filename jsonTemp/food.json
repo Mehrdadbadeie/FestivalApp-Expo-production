@@ -34,12 +34,12 @@
             "fish": "true",
             "menu": [
                 {
-                    "food": "Hemlagad Burger, Pommes Vegetariska Burger, Veganska Burger, Glutenfi"
+                    "food": "Hemlagad Burger, Pommes Vegetariska Burger, Veganska Burger, Glutenfri"
                 }
             ]
         },
         {
-            "name": "Captain Johns Fish n Chips Borås ",
+            "name": "JMA Fish n Chips",
             "vegan": "false",
             "meat": "false",
             "fish": "true",
@@ -98,18 +98,6 @@
             ]
         },
         {
-            "name": "Herrljunga Drycker",
-            "meat": "false",
-            "vegan": "false",
-            "fish": "false",
-
-            "menu": [
-                {
-                    "food": "Endast alkoholfri dryck"
-                }
-            ]
-        },
-        {
             "name": "Handelsbolaget Fikasystrarna",
             "meat": "false",
             "vegan": "true",
@@ -158,15 +146,26 @@
             ]
         },
         {
-            "name": "Adisagrillen AB",
+            "name": "Havanna Fusion food AB",
             "vegan": "true",
             "meat": "true",
-            "fish": "true",
+            "fish": "false",
             "menu": [
                 {
-                    "food": "Kolgrillad persisk mat. Främst spett men även kolgrillad lax & grytor (K, F troligt V) "
+                    "food": "Pulled pork, Tacos, Kyckling, Souvlaki, Högrevsburgare, Halloumiburgare ()"
                 }
             ]
-        }
+        },
+        {
+            "name": "Mr Greek",
+            "vegan": "true",
+            "meat": "true",
+            "fish": "false",
+            "menu": [
+                {
+                    "food": "Gyros med olika tyoer av kött eller vegetariskt, Sallad och pommes. Serveras i pitabröd eller tallrik"
+                }
+            ]
+        },
     ]
 }
