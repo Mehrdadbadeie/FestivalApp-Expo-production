@@ -2,7 +2,7 @@
   "expo": {
     "name": "festivalapp-prod",
     "slug": "festivalapp-prod",
-    "version": "15.0.0",
+    "version": "21.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -17,7 +17,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.herrljungait.festivalappprod",
-      "buildNumber": "15.0.0" 
+      "buildNumber": "21.0.0" 
     },
     "android": {
       "adaptiveIcon": {
@@ -28,7 +28,7 @@
       "config": {
         "googleMaps": { "apiKey": "AIzaSyDv7bpl8cX9UTEYqwtIXvowaZjRAhrerSg" }
       },
-      "versionCode": 15
+      "versionCode": 21
     },
     "web": {
       "favicon": "./assets/favicon.png"
